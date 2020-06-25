@@ -2,8 +2,8 @@
 require_once("./lib/util.php");
 
 // データベースユーザー
-$user = "phpclassuser";
-$password = "Maston964";
+$user = "";
+$password = "";
 // 利用するデータベース
 $dbname = "class";
 // MySQLサーバ
